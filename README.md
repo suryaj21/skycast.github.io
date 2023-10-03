@@ -1,4 +1,4 @@
-# WeatherDetectionAPI
+# SkyCast Weather App
 Project based pn Tailwind CSS and JavaScript
 
 
