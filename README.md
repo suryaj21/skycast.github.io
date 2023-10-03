@@ -1,10 +1,10 @@
 # SkyCast Weather App
-Project based pn Tailwind CSS and JavaScript
+Project based on CSS and JavaScript
 
 
 Introducing SkyCast: Your One-Stop Weather App
 
-SkyCast is a sleek and user-friendly weather app that brings real-time weather information to your fingertips. Built using the power of Tailwind CSS and JavaScript, this project seamlessly integrates data from the OpenWeather API to provide you with up-to-date weather forecasts for your current location and any location around the globe.
+SkyCast is a sleek and user-friendly weather app that brings real-time weather information to your fingertips. Built using the power of CSS and JavaScript, this project seamlessly integrates data from the OpenWeather API to provide you with up-to-date weather forecasts for your current location and any location around the globe.
 
 Key Features:
 
